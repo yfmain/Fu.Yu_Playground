@@ -9,3 +9,11 @@ $git commit
 
 this only commit to local repository.
 
+$git push
+or
+$git push origin master
+
+this will push local to remote.
+
+#see more information about the remote.
+$git remote show origin
